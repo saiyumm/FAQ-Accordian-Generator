@@ -15,4 +15,4 @@ Instructions:
 2. Click the "Convert Code" button.
 3. The converted code output will be displayed in the output area.
 
-Feel free to contribute to this project, report any issues, or suggest enhancements. Enjoy converting your code hassle-free with the Code Converter Generator!
+Feel free to contribute to this project, report any issues, or suggest enhancements. Enjoy converting your code hassle-free with the Code Generator!
